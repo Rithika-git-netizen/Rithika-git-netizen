@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithika-git-netizen
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ..java,ds,AI,and gen-AI
+- 🌱 I’m currently learning ..java,DSA,AI,and gen-AI,Cybersecurity
 - 💞️ I’m looking to collaborate on mini and major projects
 - 📫 How to reach me ...email,rithikarekhadevi@gmail,com
 - 😄 Pronouns: ...friend
